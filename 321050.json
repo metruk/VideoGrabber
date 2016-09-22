@@ -1,0 +1,293 @@
+{
+  "code": 0,
+  "version": 2,
+  "object": {
+    "gtin": "8644444424361",
+    "multiplier": "1.00",
+    "type": "2",
+    "url": "https://api.listex.info/product/violetta-penzlik-dlya-makiyazhu-1sht-artqian03?utm_source=edi_su&utm_medium=referal&utm_campaign=barcode_link",
+    "goods": {
+      "id": "321050",
+      "name": "Кисть для макияжа Violetta 1шт арт.QIAN-03",
+      "tm": {
+        "tmid": "8579",
+        "name": "Violetta"
+      },
+      "manufacturers": [
+        {
+          "name": "Янгджанг індастріал Компані/Yangi Industrial Compani"
+        }
+      ],
+      "attrvalues": [
+        {
+          "attrid": "2632",
+          "name": "Классификация",
+          "value": "МАСС МАРКЕТ"
+        },
+        {
+          "attrid": "2503",
+          "name": "Производитель",
+          "value": "Янгджанг індастріал Компані/Yangi Industrial Compani"
+        },
+        {
+          "attrid": "2432",
+          "name": "CTM",
+          "value": "ДА"
+        },
+        {
+          "attrid": "2501",
+          "name": "Планограмма выкладки товара",
+          "value": "ДА"
+        },
+        {
+          "attrid": "1123",
+          "name": "Материал упаковки",
+          "value": "КОМБИНИРОВАННЫЙ МАТЕРИАЛ {400005038}"
+        },
+        {
+          "attrid": "1126",
+          "name": "Тип упаковки",
+          "value": "БЛИСТЕРНАЯ УПАКОВКА {BME}"
+        },
+        {
+          "attrid": "71",
+          "name": "Срок годности",
+          "value": "НЕОГРАНИЧЕННЫЙ",
+          "valuestype": "дн.\r\nмес.\r\nнед.\r\nч.\r\nсут.\r\nлет\r\nгод\r\nгода\r\nмес. (после вскрытия)\r\nнед. (после вскрытия)\r\nдни (после вскрытия)\r\nсут (после вскрытия)\r\nч (после вскрытия)\r\n"
+        },
+        {
+          "attrid": "1165",
+          "name": "Окружающая среда",
+          "value": "СУХОЕ МЕСТО"
+        },
+        {
+          "attrid": "2630",
+          "name": "Страна",
+          "value": "CN"
+        },
+        {
+          "attrid": "1165",
+          "name": "Окружающая среда",
+          "value": "НЕДОСТУПНОЕ ДЛЯ ДЕТЕЙ МЕСТО"
+        },
+        {
+          "attrid": "12",
+          "name": "Вид продукции",
+          "value": "КИСТЬ ДЛЯ ТОНАЛЬНОЙ ОСНОВЫ"
+        },
+        {
+          "attrid": "2541",
+          "name": "Материал рабочей части",
+          "value": "НАТУРАЛЬНЫЙ"
+        },
+        {
+          "attrid": "2478",
+          "name": "Название (рус.)",
+          "value": "Кисть для макияжа Violetta 1шт арт.QIAN-03"
+        },
+        {
+          "attrid": "2480",
+          "name": "Краткое название (рус.)",
+          "value": "Кисть для макияжа Violetta 1шт"
+        },
+        {
+          "attrid": "2479",
+          "name": "Название (укр.)",
+          "value": "Кисть для макіяжу Violetta 1шт арт.QIAN-03"
+        },
+        {
+          "attrid": "2481",
+          "name": "Краткое название (укр.)",
+          "value": "Кисть для макіяжу Violetta 1шт"
+        },
+        {
+          "attrid": "2439",
+          "name": "Ширина",
+          "value": "5.2",
+          "type": "см",
+          "valuestype": "см",
+          "gtin": "8644444424361",
+          "multiplier": "1.00"
+        },
+        {
+          "attrid": "2438",
+          "name": "Глубина",
+          "value": "1.4",
+          "type": "см",
+          "valuestype": "см",
+          "gtin": "8644444424361",
+          "multiplier": "1.00"
+        },
+        {
+          "attrid": "2437",
+          "name": "Высота",
+          "value": "24.6",
+          "type": "см",
+          "valuestype": "см\r\nм",
+          "gtin": "8644444424361",
+          "multiplier": "1.00"
+        },
+        {
+          "attrid": "2440",
+          "name": "Вес брутто",
+          "value": "0.028",
+          "type": "кг",
+          "valuestype": "кг",
+          "gtin": "8644444424361",
+          "multiplier": "1.00"
+        }
+      ],
+      "categories": [
+        {
+          "catid": "14412",
+          "name": "Кисти для макияжа"
+        }
+      ],
+      "gtins": [
+        {
+          "value": "114942",
+          "type": "3",
+          "multiplier": "1.00"
+        },
+        {
+          "value": "8644444424361",
+          "type": "2",
+          "multiplier": "1.00"
+        }
+      ],
+      "photos": [
+        {
+          "photoid": "512586",
+          "type": "default",
+          "url": "https://icf.listex.info/300x200/5324fa11-598d-091a-7279-88b48f55f8de.jpg",
+          "size": "3456|2304|1200|800|300|200|404|1808"
+        },
+        {
+          "photoid": "512586",
+          "type": "facing",
+          "url": "https://icf.listex.info/facing/5324fa11-598d-091a-7279-88b48f55f8de.jpg",
+          "size": "3456|2304|1200|800|300|200|404|1808"
+        },
+        {
+          "photoid": "570019",
+          "type": "default",
+          "url": "https://icf.listex.info/300x200/3b8cfa6b-ce73-f518-a68d-35fac9d97690.jpg",
+          "size": "2304|2304|800|800|225|225|218|1621"
+        },
+        {
+          "photoid": "570019",
+          "type": "facing",
+          "url": "https://icf.listex.info/facing/3b8cfa6b-ce73-f518-a68d-35fac9d97690.jpg",
+          "size": "2304|2304|800|800|225|225|218|1621"
+        },
+        {
+          "photoid": "512585",
+          "type": "3ds",
+          "url": "https://icf.listex.info/300x200/5324fa11-598d-091a-7279-88b48f55f8de.jpg",
+          "series": [
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.0.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.1.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.2.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.3.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.4.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.5.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.6.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.7.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.8.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.9.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.10.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.11.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.12.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.13.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.14.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.15.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.16.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.17.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.18.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.19.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.20.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.21.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.22.jpg",
+            "https://icf.listex.info/300x200/3d/5324fa11-598d-091a-7279-88b48f55f8de.3d.23.jpg"
+          ],
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "570018",
+          "type": "3ds",
+          "url": "https://icf.listex.info/300x200/3b8cfa6b-ce73-f518-a68d-35fac9d97690.jpg",
+          "series": [
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.0.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.1.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.2.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.3.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.4.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.5.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.6.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.7.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.8.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.9.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.10.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.11.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.12.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.13.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.14.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.15.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.16.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.17.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.18.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.19.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.20.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.21.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.22.jpg",
+            "https://icf.listex.info/300x200/3d/3b8cfa6b-ce73-f518-a68d-35fac9d97690.3d.23.jpg"
+          ],
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "512587",
+          "type": "7",
+          "url": "https://icf.listex.info/300x200/5324fa11-598d-091a-7279-88b48f55f8de.6.jpg",
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "570020",
+          "type": "7",
+          "url": "https://icf.listex.info/300x200/3b8cfa6b-ce73-f518-a68d-35fac9d97690.6.jpg",
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "512589",
+          "type": "19",
+          "url": "https://icf.listex.info/300x200/5324fa11-598d-091a-7279-88b48f55f8de.18.jpg",
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "570022",
+          "type": "19",
+          "url": "https://icf.listex.info/300x200/3b8cfa6b-ce73-f518-a68d-35fac9d97690.18.jpg",
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "512588",
+          "type": "13",
+          "url": "https://icf.listex.info/300x200/5324fa11-598d-091a-7279-88b48f55f8de.12.jpg",
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "570021",
+          "type": "13",
+          "url": "https://icf.listex.info/300x200/3b8cfa6b-ce73-f518-a68d-35fac9d97690.12.jpg",
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "570037",
+          "type": "undef",
+          "url": "https://icf.listex.info/300x200/8284f70b-da8b-a453-a5d8-79c70d54dd6e.jpg",
+          "size": "2304|2304|800|800|225|225"
+        }
+      ]
+    }
+  },
+  "message": ""
+}

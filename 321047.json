@@ -1,0 +1,299 @@
+{
+  "code": 0,
+  "version": 2,
+  "object": {
+    "gtin": "8644444424392",
+    "multiplier": "1.00",
+    "type": "2",
+    "url": "https://api.listex.info/product/violetta-penzlik-dlya-makiyazhu-1sht-artqian06?utm_source=edi_su&utm_medium=referal&utm_campaign=barcode_link",
+    "goods": {
+      "id": "321047",
+      "name": "Кисть для макияжа Violetta 1шт",
+      "tm": {
+        "tmid": "8579",
+        "name": "Violetta"
+      },
+      "manufacturers": [
+        {
+          "name": "Янгджанг індастріал Компані/Yangi Industrial Compani"
+        }
+      ],
+      "attrvalues": [
+        {
+          "attrid": "2632",
+          "name": "Классификация",
+          "value": "МАСС МАРКЕТ"
+        },
+        {
+          "attrid": "2503",
+          "name": "Производитель",
+          "value": "Янгджанг індастріал Компані/Yangi Industrial Compani"
+        },
+        {
+          "attrid": "2432",
+          "name": "CTM",
+          "value": "ДА"
+        },
+        {
+          "attrid": "2501",
+          "name": "Планограмма выкладки товара",
+          "value": "ДА"
+        },
+        {
+          "attrid": "1123",
+          "name": "Материал упаковки",
+          "value": "КОМБИНИРОВАННЫЙ МАТЕРИАЛ {400005038}"
+        },
+        {
+          "attrid": "1126",
+          "name": "Тип упаковки",
+          "value": "БЛИСТЕРНАЯ УПАКОВКА {BME}"
+        },
+        {
+          "attrid": "71",
+          "name": "Срок годности",
+          "value": "НЕОГРАНИЧЕННЫЙ",
+          "valuestype": "дн.\r\nмес.\r\nнед.\r\nч.\r\nсут.\r\nлет\r\nгод\r\nгода\r\nмес. (после вскрытия)\r\nнед. (после вскрытия)\r\nдни (после вскрытия)\r\nсут (после вскрытия)\r\nч (после вскрытия)\r\n"
+        },
+        {
+          "attrid": "1165",
+          "name": "Окружающая среда",
+          "value": "СУХОЕ МЕСТО"
+        },
+        {
+          "attrid": "2630",
+          "name": "Страна",
+          "value": "CN"
+        },
+        {
+          "attrid": "1165",
+          "name": "Окружающая среда",
+          "value": "НЕДОСТУПНОЕ ДЛЯ ДЕТЕЙ МЕСТО"
+        },
+        {
+          "attrid": "12",
+          "name": "Вид продукции",
+          "value": "КИСТЬ ДЛЯ ТЕНЕЙ"
+        },
+        {
+          "attrid": "2541",
+          "name": "Материал рабочей части",
+          "value": "НАТУРАЛЬНЫЙ"
+        },
+        {
+          "attrid": "2478",
+          "name": "Название (рус.)",
+          "value": "Кисть для макияжа Violetta 1шт"
+        },
+        {
+          "attrid": "2480",
+          "name": "Краткое название (рус.)",
+          "value": "Кисть для макияжа Violetta 1шт"
+        },
+        {
+          "attrid": "2479",
+          "name": "Название (укр.)",
+          "value": "Кисть для макіяжу Violetta 1шт"
+        },
+        {
+          "attrid": "2481",
+          "name": "Краткое название (укр.)",
+          "value": "Кисть для макіяжу Violetta 1шт"
+        },
+        {
+          "attrid": "39",
+          "name": "Материал",
+          "value": "НАТУРАЛЬНАЯ ЩЕТИНА, ПЛАСТИК",
+          "valuestype": "полиамид, %\r\nэластан, %\r\nхлопок, %\r\nнейлон, %\r\nспандекс, %\r\nмодал, %\r\nсоя, %\r\nполиэстер, %\r\nвискоза-бамбук, %\r\nлён, %\r\nвискоза, %\r\nбамбук, %\r\nстрейч-нейлон, %\r\nакрил, %\r\nшерсть, %\r\nрайон, %\r\nдорлостан, %"
+        },
+        {
+          "attrid": "2439",
+          "name": "Ширина",
+          "value": "5.2",
+          "type": "см",
+          "valuestype": "см",
+          "gtin": "8644444424392",
+          "multiplier": "1.00"
+        },
+        {
+          "attrid": "2438",
+          "name": "Глубина",
+          "value": "0.8",
+          "type": "см",
+          "valuestype": "см",
+          "gtin": "8644444424392",
+          "multiplier": "1.00"
+        },
+        {
+          "attrid": "2437",
+          "name": "Высота",
+          "value": "24.6",
+          "type": "см",
+          "valuestype": "см\r\nм",
+          "gtin": "8644444424392",
+          "multiplier": "1.00"
+        },
+        {
+          "attrid": "2440",
+          "name": "Вес брутто",
+          "value": "0.020",
+          "type": "кг",
+          "valuestype": "кг",
+          "gtin": "8644444424392",
+          "multiplier": "1.00"
+        }
+      ],
+      "categories": [
+        {
+          "catid": "14412",
+          "name": "Кисти для макияжа"
+        }
+      ],
+      "gtins": [
+        {
+          "value": "114946",
+          "type": "3",
+          "multiplier": "1.00"
+        },
+        {
+          "value": "8644444424392",
+          "type": "2",
+          "multiplier": "1.00"
+        }
+      ],
+      "photos": [
+        {
+          "photoid": "512601",
+          "type": "default",
+          "url": "https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.jpg",
+          "size": "3456|2304|1200|800|300|200|416|1733"
+        },
+        {
+          "photoid": "512601",
+          "type": "facing",
+          "url": "https://icf.listex.info/facing/627ce0af-cdb3-c380-4934-73455da787eb.jpg",
+          "size": "3456|2304|1200|800|300|200|416|1733"
+        },
+        {
+          "photoid": "569895",
+          "type": "default",
+          "url": "https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.jpg",
+          "size": "2304|2304|800|800|225|225|101|1806"
+        },
+        {
+          "photoid": "569895",
+          "type": "facing",
+          "url": "https://icf.listex.info/facing/bd633677-9c5b-9014-cc8d-b583980706a3.jpg",
+          "size": "2304|2304|800|800|225|225|101|1806"
+        },
+        {
+          "photoid": "512600",
+          "type": "3ds",
+          "url": "https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.jpg",
+          "series": [
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.0.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.1.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.2.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.3.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.4.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.5.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.6.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.7.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.8.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.9.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.10.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.11.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.12.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.13.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.14.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.15.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.16.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.17.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.18.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.19.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.20.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.21.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.22.jpg",
+            "https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.23.jpg"
+          ],
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "569894",
+          "type": "3ds",
+          "url": "https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.jpg",
+          "series": [
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.0.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.1.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.2.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.3.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.4.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.5.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.6.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.7.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.8.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.9.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.10.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.11.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.12.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.13.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.14.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.15.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.16.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.17.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.18.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.19.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.20.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.21.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.22.jpg",
+            "https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.23.jpg"
+          ],
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "512602",
+          "type": "7",
+          "url": "https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.6.jpg",
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "569896",
+          "type": "7",
+          "url": "https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.6.jpg",
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "512604",
+          "type": "19",
+          "url": "https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.18.jpg",
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "569898",
+          "type": "19",
+          "url": "https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.18.jpg",
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "512603",
+          "type": "13",
+          "url": "https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.12.jpg",
+          "size": "3456|2304|1200|800|300|200"
+        },
+        {
+          "photoid": "569897",
+          "type": "13",
+          "url": "https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.12.jpg",
+          "size": "2304|2304|800|800|225|225"
+        },
+        {
+          "photoid": "569928",
+          "type": "undef",
+          "url": "https://icf.listex.info/300x200/71c2bd38-0872-785a-e03e-614dc3bc8bd4.jpg",
+          "size": "2304|2304|800|800|225|225"
+        }
+      ]
+    }
+  },
+  "message": ""
+}

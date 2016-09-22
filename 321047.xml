@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <code>0</code>
+    <version>2</version>
+    <object>
+        <gtin>8644444424392</gtin>
+        <multiplier>1.00</multiplier>
+        <type>2</type>
+        <url>
+            <![CDATA[https://api.listex.info/product/violetta-penzlik-dlya-makiyazhu-1sht-artqian06?utm_source=edi_su&utm_medium=referal&utm_campaign=barcode_link]]>
+        </url>
+        <goods>
+            <id>321047</id>
+            <name>Кисть для макияжа Violetta 1шт</name>
+            <tm>
+                <tmid>8579</tmid>
+                <name>Violetta</name>
+            </tm>
+            <manufacturers>
+                <item-0>
+                    <name>Янгджанг індастріал Компані/Yangi Industrial Compani</name>
+                </item-0>
+            </manufacturers>
+            <attrvalues>
+                <item-0>
+                    <attrid>2632</attrid>
+                    <name>Классификация</name>
+                    <value>МАСС МАРКЕТ</value>
+                </item-0>
+                <item-1>
+                    <attrid>2503</attrid>
+                    <name>Производитель</name>
+                    <value>Янгджанг індастріал Компані/Yangi Industrial Compani</value>
+                </item-1>
+                <item-2>
+                    <attrid>2432</attrid>
+                    <name>CTM</name>
+                    <value>ДА</value>
+                </item-2>
+                <item-3>
+                    <attrid>2501</attrid>
+                    <name>Планограмма выкладки товара</name>
+                    <value>ДА</value>
+                </item-3>
+                <item-4>
+                    <attrid>1123</attrid>
+                    <name>Материал упаковки</name>
+                    <value>КОМБИНИРОВАННЫЙ МАТЕРИАЛ {400005038}</value>
+                </item-4>
+                <item-5>
+                    <attrid>1126</attrid>
+                    <name>Тип упаковки</name>
+                    <value>БЛИСТЕРНАЯ УПАКОВКА {BME}</value>
+                </item-5>
+                <item-6>
+                    <attrid>71</attrid>
+                    <name>Срок годности</name>
+                    <value>НЕОГРАНИЧЕННЫЙ</value>
+                    <valuestype>дн.
+мес.
+нед.
+ч.
+сут.
+лет
+год
+года
+мес. (после вскрытия)
+нед. (после вскрытия)
+дни (после вскрытия)
+сут (после вскрытия)
+ч (после вскрытия)
+</valuestype>
+                </item-6>
+                <item-7>
+                    <attrid>1165</attrid>
+                    <name>Окружающая среда</name>
+                    <value>СУХОЕ МЕСТО</value>
+                </item-7>
+                <item-8>
+                    <attrid>2630</attrid>
+                    <name>Страна</name>
+                    <value>CN</value>
+                </item-8>
+                <item-9>
+                    <attrid>1165</attrid>
+                    <name>Окружающая среда</name>
+                    <value>НЕДОСТУПНОЕ ДЛЯ ДЕТЕЙ МЕСТО</value>
+                </item-9>
+                <item-10>
+                    <attrid>12</attrid>
+                    <name>Вид продукции</name>
+                    <value>КИСТЬ ДЛЯ ТЕНЕЙ</value>
+                </item-10>
+                <item-11>
+                    <attrid>2541</attrid>
+                    <name>Материал рабочей части</name>
+                    <value>НАТУРАЛЬНЫЙ</value>
+                </item-11>
+                <item-12>
+                    <attrid>2478</attrid>
+                    <name>Название (рус.)</name>
+                    <value>Кисть для макияжа Violetta 1шт</value>
+                </item-12>
+                <item-13>
+                    <attrid>2480</attrid>
+                    <name>Краткое название (рус.)</name>
+                    <value>Кисть для макияжа Violetta 1шт</value>
+                </item-13>
+                <item-14>
+                    <attrid>2479</attrid>
+                    <name>Название (укр.)</name>
+                    <value>Кисть для макіяжу Violetta 1шт</value>
+                </item-14>
+                <item-15>
+                    <attrid>2481</attrid>
+                    <name>Краткое название (укр.)</name>
+                    <value>Кисть для макіяжу Violetta 1шт</value>
+                </item-15>
+                <item-16>
+                    <attrid>39</attrid>
+                    <name>Материал</name>
+                    <value>НАТУРАЛЬНАЯ ЩЕТИНА, ПЛАСТИК</value>
+                    <valuestype>полиамид, %
+эластан, %
+хлопок, %
+нейлон, %
+спандекс, %
+модал, %
+соя, %
+полиэстер, %
+вискоза-бамбук, %
+лён, %
+вискоза, %
+бамбук, %
+стрейч-нейлон, %
+акрил, %
+шерсть, %
+район, %
+дорлостан, %</valuestype>
+                </item-16>
+                <item-17>
+                    <attrid>2439</attrid>
+                    <name>Ширина</name>
+                    <value>5.2</value>
+                    <type>см</type>
+                    <valuestype>см</valuestype>
+                    <gtin>8644444424392</gtin>
+                    <multiplier>1.00</multiplier>
+                </item-17>
+                <item-18>
+                    <attrid>2438</attrid>
+                    <name>Глубина</name>
+                    <value>0.8</value>
+                    <type>см</type>
+                    <valuestype>см</valuestype>
+                    <gtin>8644444424392</gtin>
+                    <multiplier>1.00</multiplier>
+                </item-18>
+                <item-19>
+                    <attrid>2437</attrid>
+                    <name>Высота</name>
+                    <value>24.6</value>
+                    <type>см</type>
+                    <valuestype>см
+м</valuestype>
+                    <gtin>8644444424392</gtin>
+                    <multiplier>1.00</multiplier>
+                </item-19>
+                <item-20>
+                    <attrid>2440</attrid>
+                    <name>Вес брутто</name>
+                    <value>0.020</value>
+                    <type>кг</type>
+                    <valuestype>кг</valuestype>
+                    <gtin>8644444424392</gtin>
+                    <multiplier>1.00</multiplier>
+                </item-20>
+            </attrvalues>
+            <categories>
+                <item-0>
+                    <catid>14412</catid>
+                    <name>Кисти для макияжа</name>
+                </item-0>
+            </categories>
+            <gtins>
+                <item-0>
+                    <value>114946</value>
+                    <type>3</type>
+                    <multiplier>1.00</multiplier>
+                </item-0>
+                <item-1>
+                    <value>8644444424392</value>
+                    <type>2</type>
+                    <multiplier>1.00</multiplier>
+                </item-1>
+            </gtins>
+            <photos>
+                <item-0>
+                    <photoid>512601</photoid>
+                    <type>default</type>
+                    <url>https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.jpg</url>
+                    <size>3456|2304|1200|800|300|200|416|1733</size>
+                </item-0>
+                <item-1>
+                    <photoid>512601</photoid>
+                    <type>facing</type>
+                    <url>https://icf.listex.info/facing/627ce0af-cdb3-c380-4934-73455da787eb.jpg</url>
+                    <size>3456|2304|1200|800|300|200|416|1733</size>
+                </item-1>
+                <item-2>
+                    <photoid>569895</photoid>
+                    <type>default</type>
+                    <url>https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.jpg</url>
+                    <size>2304|2304|800|800|225|225|101|1806</size>
+                </item-2>
+                <item-3>
+                    <photoid>569895</photoid>
+                    <type>facing</type>
+                    <url>https://icf.listex.info/facing/bd633677-9c5b-9014-cc8d-b583980706a3.jpg</url>
+                    <size>2304|2304|800|800|225|225|101|1806</size>
+                </item-3>
+                <item-4>
+                    <photoid>512600</photoid>
+                    <type>3ds</type>
+                    <url>https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.jpg</url>
+                    <series>
+                        <item-0>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.0.jpg</item-0>
+                        <item-1>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.1.jpg</item-1>
+                        <item-2>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.2.jpg</item-2>
+                        <item-3>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.3.jpg</item-3>
+                        <item-4>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.4.jpg</item-4>
+                        <item-5>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.5.jpg</item-5>
+                        <item-6>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.6.jpg</item-6>
+                        <item-7>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.7.jpg</item-7>
+                        <item-8>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.8.jpg</item-8>
+                        <item-9>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.9.jpg</item-9>
+                        <item-10>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.10.jpg</item-10>
+                        <item-11>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.11.jpg</item-11>
+                        <item-12>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.12.jpg</item-12>
+                        <item-13>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.13.jpg</item-13>
+                        <item-14>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.14.jpg</item-14>
+                        <item-15>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.15.jpg</item-15>
+                        <item-16>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.16.jpg</item-16>
+                        <item-17>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.17.jpg</item-17>
+                        <item-18>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.18.jpg</item-18>
+                        <item-19>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.19.jpg</item-19>
+                        <item-20>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.20.jpg</item-20>
+                        <item-21>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.21.jpg</item-21>
+                        <item-22>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.22.jpg</item-22>
+                        <item-23>https://icf.listex.info/300x200/3d/627ce0af-cdb3-c380-4934-73455da787eb.3d.23.jpg</item-23>
+                    </series>
+                    <size>3456|2304|1200|800|300|200</size>
+                </item-4>
+                <item-5>
+                    <photoid>569894</photoid>
+                    <type>3ds</type>
+                    <url>https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.jpg</url>
+                    <series>
+                        <item-0>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.0.jpg</item-0>
+                        <item-1>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.1.jpg</item-1>
+                        <item-2>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.2.jpg</item-2>
+                        <item-3>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.3.jpg</item-3>
+                        <item-4>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.4.jpg</item-4>
+                        <item-5>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.5.jpg</item-5>
+                        <item-6>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.6.jpg</item-6>
+                        <item-7>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.7.jpg</item-7>
+                        <item-8>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.8.jpg</item-8>
+                        <item-9>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.9.jpg</item-9>
+                        <item-10>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.10.jpg</item-10>
+                        <item-11>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.11.jpg</item-11>
+                        <item-12>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.12.jpg</item-12>
+                        <item-13>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.13.jpg</item-13>
+                        <item-14>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.14.jpg</item-14>
+                        <item-15>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.15.jpg</item-15>
+                        <item-16>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.16.jpg</item-16>
+                        <item-17>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.17.jpg</item-17>
+                        <item-18>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.18.jpg</item-18>
+                        <item-19>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.19.jpg</item-19>
+                        <item-20>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.20.jpg</item-20>
+                        <item-21>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.21.jpg</item-21>
+                        <item-22>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.22.jpg</item-22>
+                        <item-23>https://icf.listex.info/300x200/3d/bd633677-9c5b-9014-cc8d-b583980706a3.3d.23.jpg</item-23>
+                    </series>
+                    <size>2304|2304|800|800|225|225</size>
+                </item-5>
+                <item-6>
+                    <photoid>512602</photoid>
+                    <type>7</type>
+                    <url>https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.6.jpg</url>
+                    <size>3456|2304|1200|800|300|200</size>
+                </item-6>
+                <item-7>
+                    <photoid>569896</photoid>
+                    <type>7</type>
+                    <url>https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.6.jpg</url>
+                    <size>2304|2304|800|800|225|225</size>
+                </item-7>
+                <item-8>
+                    <photoid>512604</photoid>
+                    <type>19</type>
+                    <url>https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.18.jpg</url>
+                    <size>3456|2304|1200|800|300|200</size>
+                </item-8>
+                <item-9>
+                    <photoid>569898</photoid>
+                    <type>19</type>
+                    <url>https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.18.jpg</url>
+                    <size>2304|2304|800|800|225|225</size>
+                </item-9>
+                <item-10>
+                    <photoid>512603</photoid>
+                    <type>13</type>
+                    <url>https://icf.listex.info/300x200/627ce0af-cdb3-c380-4934-73455da787eb.12.jpg</url>
+                    <size>3456|2304|1200|800|300|200</size>
+                </item-10>
+                <item-11>
+                    <photoid>569897</photoid>
+                    <type>13</type>
+                    <url>https://icf.listex.info/300x200/bd633677-9c5b-9014-cc8d-b583980706a3.12.jpg</url>
+                    <size>2304|2304|800|800|225|225</size>
+                </item-11>
+                <item-12>
+                    <photoid>569928</photoid>
+                    <type>undef</type>
+                    <url>https://icf.listex.info/300x200/71c2bd38-0872-785a-e03e-614dc3bc8bd4.jpg</url>
+                    <size>2304|2304|800|800|225|225</size>
+                </item-12>
+            </photos>
+        </goods>
+    </object>
+    <message/>
+</root>
